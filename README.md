@@ -1,2 +1,0 @@
-# archi2D
-dist

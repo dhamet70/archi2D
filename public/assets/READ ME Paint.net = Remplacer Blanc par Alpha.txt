@@ -1,7 +1,0 @@
-I used the Paint Bucket tool (pot de peinture).
-
-Select the Paint Bucket
-In the Colors window click More >>
-Move the Opacity - Alpha slider to the left
-On the toolbar, set Flood Mode to Global and the Blend Mode (the vial/icone de potion magique) to Overwrite (= Remplacer)
-Click on the white area.
